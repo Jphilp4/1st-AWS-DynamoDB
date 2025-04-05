@@ -29,4 +29,5 @@ Feel free to check out my other projects or connect with me on **[LinkedIn](http
 ## Documentation  
 For a detailed walkthrough, check out my process documentation here: [https://drive.google.com/file/d/1ywunYCRnB03Tb7wG_7s3RlccHJxfokjx/view?usp=drive_link] 
 
+
 📌 #AWS #CloudComputing #DynamoDB #NoSQL #TechLearning #LearnInPublic
